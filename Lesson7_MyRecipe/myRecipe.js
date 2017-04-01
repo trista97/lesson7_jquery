@@ -2,13 +2,13 @@
 Program Name:Recipe Display Application
 Author: Trista Reeves
 Date: 03/30/2017
-Filename: script.js
+Filename: myrecipe.js
 */
 
 //displays the next element after the current target
     function display(event) {
             
-             $(event.currentTarget).next().fadeIn('slow');
+             $(event.currentTarget).next().fadeIn('fast');
 
         }
        
