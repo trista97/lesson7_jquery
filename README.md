@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 30, 2017
 
 ### Student Name:  
-(First and Last Name)
+Trista Reeves
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project uses jQuery to create an interactive recipe display application on the web.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://trista97.github.io/lesson7_jquery/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The basics of jQuery.
+2. Introductory jQuery snytax.
+3. How to use jQuery to animate objects.
